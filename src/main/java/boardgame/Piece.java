@@ -9,4 +9,6 @@ public class Piece {
         this.board = board;
         position = null;
     }
+
+
 }
